@@ -1,12 +1,12 @@
 self.assetsManifest = {
-  "version": "5clyxa49",
+  "version": "DWaFWjBh",
   "assets": [
     {
       "hash": "sha256-VvLqQISz23iYMcvLVtJH7OHgz5WIRY6yAtXXF+QYrbc=",
       "url": "BristonlyFans.styles.css"
     },
     {
-      "hash": "sha256-e5eazMPEOP1lXs0VFkkMC3UVvfnR73qLE0bdMTFMJ3U=",
+      "hash": "sha256-jYzuTktCHJWLjUN9JD6WaCvFMwKl4el9crwv10+dfeM=",
       "url": "_framework/BristonlyFans.wasm"
     },
     {
@@ -126,7 +126,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-yQ/vQwHYQSip5iWYZXDFaYsxClIp5XkHJbjydOCWDmE=",
+      "hash": "sha256-DN1Uq01p42xsLooMbY1m/bSo7C7SKG/Pbj3YlDYx58Y=",
       "url": "_framework/blazor.boot.json"
     },
     {

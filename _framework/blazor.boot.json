@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BristonlyFans",
   "resources": {
-    "hash": "sha256-WKuFGapN3SRAycq3MN9vS77xSbo66FBtVWMZUo0DYqg=",
+    "hash": "sha256-VtYNkT2mWJjNcDTp8+H6+lGXdGO903Godk905LXXcpc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "BristonlyFans.wasm": "sha256-e5eazMPEOP1lXs0VFkkMC3UVvfnR73qLE0bdMTFMJ3U=",
+      "BristonlyFans.wasm": "sha256-jYzuTktCHJWLjUN9JD6WaCvFMwKl4el9crwv10+dfeM=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-E3eTH7aPSVmECApxsV7mLDWpEV5d34QcTbWBE67b3I0=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-+vgZaLZWDaRvY3Q5Jisyaq8jyt2nY0elaH0BOeQiiGs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YOTmgCi9w/cS25afM5UoVJ07S8qiQ6SREvyxCkFnL5o=",
