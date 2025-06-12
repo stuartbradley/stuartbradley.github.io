@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "DWaFWjBh",
+  "version": "XEN+3bkm",
   "assets": [
     {
-      "hash": "sha256-VvLqQISz23iYMcvLVtJH7OHgz5WIRY6yAtXXF+QYrbc=",
+      "hash": "sha256-bwWt6unnHB3Om3MpvzgaklnYGmAOw8jK0P7Igh6STBg=",
       "url": "BristonlyFans.styles.css"
     },
     {
@@ -192,6 +192,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-2RZaeb2uuoZTtzkbeOinbHwVUSf4j2xmudDt7ZqAy+Q=",
       "url": "images/hero.jpg"
+    },
+    {
+      "hash": "sha256-krGihRYTxFvbo4rJu35VyQBTp8n2hBkah0faLqw4EVc=",
+      "url": "images/heroimage_mobile.jpg"
     },
     {
       "hash": "sha256-Ler0CVTWQ44cM5THUE3GVUwmAD1/Bewec3CCQRyE4pg=",
