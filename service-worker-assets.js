@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "ZGOj0oJl",
+  "version": "y3VfyLGE",
   "assets": [
     {
-      "hash": "sha256-vrBwA0Cnkuo4sWb6pOc92yAQHuDSs42jfWcbf9hD5Jc=",
+      "hash": "sha256-p1MjzvKWBL7trrjOafE0wx68bA0If/6KbyLSZiVJZgI=",
       "url": "BristonlyFans.styles.css"
     },
     {
@@ -18,7 +18,7 @@ self.assetsManifest = {
       "url": "_framework/BlazorAnimate.wasm"
     },
     {
-      "hash": "sha256-low/wnmcbh5CZ+0wod6acXpOOpr40/DaoJd3MWRe9RU=",
+      "hash": "sha256-4n8zVzLrj4tkY/reoaVX1Zmuz5XEjSYNe2csBioiYC0=",
       "url": "_framework/BristonlyFans.wasm"
     },
     {
@@ -138,7 +138,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-Pq33uMgYTxfKvuCaYpWd9C/SHJfRPWisJzCB+dEbGP8=",
+      "hash": "sha256-zphTEttqQudcQ5JTyUO1nMT/czRVDw6sGmyHrd2yGAg=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -198,6 +198,10 @@ self.assetsManifest = {
       "url": "images/Mind_Charity_Logo_2021.png"
     },
     {
+      "hash": "sha256-Uzz3kry94bINdBhT20tvJDP7YVDKLsh6ZZzl+zpm16k=",
+      "url": "images/background.png"
+    },
+    {
       "hash": "sha256-PDQEFIx6kXR8NQcaYVj3jMNgrxNoaOEksbO/bk5mZyg=",
       "url": "images/hero-banner.png"
     },
@@ -230,7 +234,7 @@ self.assetsManifest = {
       "url": "images/player4.png"
     },
     {
-      "hash": "sha256-q9zpO3WEtoAgKCNe9sfu0zlGVdHB6W3LJtUiGSNgv/0=",
+      "hash": "sha256-XbjKycGw7hWilZK9N3JWkhk4KBW9eUOd0VvPEfTXqwU=",
       "url": "index.html"
     },
     {

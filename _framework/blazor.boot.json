@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BristonlyFans",
   "resources": {
-    "hash": "sha256-4gBkr9KQ+2OlkepVOVSd5xhrBVZjUJ56bpbUTv/MJyc=",
+    "hash": "sha256-TtqwC8RbTs/HF/FMe3W6vdbknstSbWloOQZ33eRLh+Y=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "BlazorAnimate.wasm": "sha256-rwFvQE7EmQQRmAK0NmiigoQvxYT6a6KaBWPYzSV4+Jk=",
-      "BristonlyFans.wasm": "sha256-low/wnmcbh5CZ+0wod6acXpOOpr40/DaoJd3MWRe9RU=",
+      "BristonlyFans.wasm": "sha256-4n8zVzLrj4tkY/reoaVX1Zmuz5XEjSYNe2csBioiYC0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-kRJqzAf7rNf3CZirUuGdJY3UgWJv+NLvvRjKOOJBHbM=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-+vgZaLZWDaRvY3Q5Jisyaq8jyt2nY0elaH0BOeQiiGs=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YOTmgCi9w/cS25afM5UoVJ07S8qiQ6SREvyxCkFnL5o=",
